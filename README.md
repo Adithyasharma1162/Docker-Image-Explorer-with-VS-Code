@@ -4,8 +4,11 @@ A tool that extracts the entire filesystem from a Docker image, mounts it into a
 
 # Features
 ✅ Extracts and mounts the complete filesystem of any Docker image
+
 ✅ Runs VS Code Server to enable web-based editing
+
 ✅ Supports common Linux-based Docker images
+
 ✅ Automatically handles container management and cleanup
 
 
